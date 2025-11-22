@@ -1,0 +1,1 @@
+export default function Achievements(){return <div style={{padding:24}}><h1>Achievements</h1></div>}
